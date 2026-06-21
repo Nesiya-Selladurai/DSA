@@ -29,4 +29,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
