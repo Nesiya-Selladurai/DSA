@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1539-kth-missing-positive-number/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1901-find-a-peak-element-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1901-find-a-peak-element-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1901-find-a-peak-element-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
