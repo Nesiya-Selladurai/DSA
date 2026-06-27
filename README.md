@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -60,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
