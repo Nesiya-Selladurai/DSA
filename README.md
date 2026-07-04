@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0290-word-pattern](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0290-word-pattern/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0290-word-pattern](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0290-word-pattern/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
 ## Stack
@@ -90,4 +92,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 <!---LeetCode Topics End-->
