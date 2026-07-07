@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0290-word-pattern/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0290-word-pattern/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0018-4sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0242-valid-anagram](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,9 +104,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0796-rotate-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->
