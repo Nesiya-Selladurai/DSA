@@ -58,11 +58,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
