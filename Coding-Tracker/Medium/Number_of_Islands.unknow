@@ -1,0 +1,65 @@
+/*
+ * Problem   : Number of Islands
+ * Platform  : LeetCode
+ * Difficulty: Medium
+ * Language  : unknown
+ * URL       : https://leetcode.com/problems/number-of-islands/description/
+ * Solved    : 2026-07-14
+ */
+
+/*
+ * ── Problem Statement ────────────────────────────────────────────────
+ * Given an m x n 2D binary grid grid which represents a map of '1's (land) and '0's (water), return the number of islands.
+ * 
+ * An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water.
+ * 
+ *  
+ * 
+ * Example 1:
+ * 
+ * Input: grid = [
+ *   ["1","1","1","1","0"],
+ *   ["1","1","0","1","0"],
+ *   ["1","1","0","0","0"],
+ *   ["0","0","0","0","0"]
+ * ]
+ * Output: 1
+ * 
+ * 
+ * Example 2:
+ * 
+ * Input: grid = [
+ *   ["1","1","0","0","0"],
+ *   ["1","1","0","0","0"],
+ *   ["0","0","1","0","0"],
+ *   ["0","0","0","1","1"]
+ * ]
+ * Output: 3
+ * 
+ * 
+ *  
+ * 
+ * Constraints:
+ * 
+ * m == grid.length
+ * n == grid[i].length
+ * 1 <= m, n <= 300
+ * grid[i][j] is '0' or '1'.
+ */
+
+class Solution {
+    static void dfs(char[][] grid,int n,int m){
+        if(n<0 || m<0 || n>=grid.length || m>=grid[0].length || grid[n][m]=='0'){
+            return ;
+        }
+        grid[n][m]='0';
+        dfs(grid,n,m+1);
+        dfs(grid,n+1,m);
+        dfs(grid,n,m-1);
+        dfs(grid,n-1,m);
+    }
+    public int numIslands(char[][] grid) {
+        int n=grid.length;
+        int m=grid[0].length;
+        int cnt=0;
+        for(int i=0;i<n;i++){
