@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0290-word-pattern/) | Easy |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0018-4sum/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
