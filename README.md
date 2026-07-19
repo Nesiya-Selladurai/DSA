@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/0577-employee-bonus/) | Easy |
 | [0620-not-boring-movies](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
+| [1075-project-employees-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1075-project-employees-i/) | Easy |
 | [1251-average-selling-price](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1251-average-selling-price/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1661-average-time-of-process-per-machine/) | Easy |
