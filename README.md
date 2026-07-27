@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1260-shift-2d-grid/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1539-kth-missing-positive-number/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0242-valid-anagram](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
