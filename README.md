@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
@@ -189,5 +191,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
