@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1661-average-time-of-process-per-machine](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1661-average-time-of-process-per-machine/) | Easy |
 | [1729-find-followers-count](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1789-primary-department-for-each-employee/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1890-the-latest-login-in-2020/) | Easy |
