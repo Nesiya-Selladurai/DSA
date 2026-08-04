@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1251-average-selling-price](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1251-average-selling-price/) | Easy |
 | [1341-movie-rating](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Medium/1341-movie-rating/) | Medium |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1587-bank-account-summary-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1587-bank-account-summary-ii/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1661-average-time-of-process-per-machine/) | Easy |
 | [1729-find-followers-count](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1729-find-followers-count/) | Easy |
