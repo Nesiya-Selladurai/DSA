@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Binary Search
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0992-subarrays-with-k-different-integers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
