@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1211-queries-quality-and-percentage](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1251-average-selling-price/) | Easy |
 | [1341-movie-rating](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Medium/1341-movie-rating/) | Medium |
+| [1407-top-travellers](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1407-top-travellers/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1587-bank-account-summary-ii/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1633-percentage-of-users-attended-a-contest/) | Easy |
