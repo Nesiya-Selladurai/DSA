@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0619-biggest-single-number](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Medium/1045-customers-who-bought-all-products/) | Medium |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Medium/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1075-project-employees-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Medium/1164-product-price-at-a-given-date/) | Medium |
