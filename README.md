@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -239,4 +240,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
