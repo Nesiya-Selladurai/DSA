@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Medium/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1075-project-employees-i/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1084-sales-analysis-iii/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Medium/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Medium/1174-immediate-food-delivery-ii/) | Medium |
 | [1179-reformat-department-table](https://github.com/Nesiya-Selladurai/DSA/tree/main/MySQL/Easy/1179-reformat-department-table/) | Easy |
