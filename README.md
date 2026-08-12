@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2643-row-with-maximum-ones/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3731-find-missing-elements](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3731-find-missing-elements](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -251,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
