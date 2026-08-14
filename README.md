@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -264,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1652-defuse-the-bomb](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1652-defuse-the-bomb/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
