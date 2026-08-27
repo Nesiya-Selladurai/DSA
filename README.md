@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-find-a-peak-element-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2643-row-with-maximum-ones/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 ## Hash Table
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1695-maximum-erasure-value](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1695-maximum-erasure-value/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
