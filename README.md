@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1901-find-a-peak-element-ii/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2643-row-with-maximum-ones/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
