@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1539-kth-missing-positive-number/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1695-maximum-erasure-value/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1695-maximum-erasure-value/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3731-find-missing-elements](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 ## Math
