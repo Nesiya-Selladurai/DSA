@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1901-find-a-peak-element-ii/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -307,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1695-maximum-erasure-value/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
