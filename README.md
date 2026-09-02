@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
+| [0054-spiral-matrix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0162-find-peak-element/) | Medium |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1260-shift-2d-grid/) | Easy |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1260-shift-2d-grid/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
