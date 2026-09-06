@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 ## Number Theory
