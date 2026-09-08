@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1901-find-a-peak-element-ii/) | Medium |
+| [1991-find-the-middle-index-in-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1991-find-the-middle-index-in-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2574-left-and-right-sum-differences/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1991-find-the-middle-index-in-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1991-find-the-middle-index-in-array/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
