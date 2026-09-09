@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0213-house-robber-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
