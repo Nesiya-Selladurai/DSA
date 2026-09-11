@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0206-reverse-linked-list/) | Easy |
