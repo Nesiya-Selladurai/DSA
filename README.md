@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1991-find-the-middle-index-in-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1991-find-the-middle-index-in-array/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2574-left-and-right-sum-differences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/3904-smallest-stable-index-ii/) | Medium |
 ## String
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
