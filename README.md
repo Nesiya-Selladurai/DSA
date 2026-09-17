@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1991-find-the-middle-index-in-array/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2090-k-radius-subarray-averages](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
