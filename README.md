@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0290-word-pattern/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0238-product-of-array-except-self/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
@@ -234,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
+| [0523-continuous-subarray-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -402,4 +406,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
