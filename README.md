@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0054-spiral-matrix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0018-4sum/) | Medium |
+| [0056-merge-intervals](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
