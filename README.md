@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
