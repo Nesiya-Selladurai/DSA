@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2643-row-with-maximum-ones](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2643-row-with-maximum-ones/) | Easy |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [2831-find-the-longest-equal-subarray](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2831-find-the-longest-equal-subarray/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1695-maximum-erasure-value](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1695-maximum-erasure-value/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2831-find-the-longest-equal-subarray](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2831-find-the-longest-equal-subarray/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1901-find-a-peak-element-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2831-find-the-longest-equal-subarray](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2831-find-the-longest-equal-subarray/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [2831-find-the-longest-equal-subarray](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2831-find-the-longest-equal-subarray/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2962-count-subarrays-where-max-element-appears-at-least-k-times/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
