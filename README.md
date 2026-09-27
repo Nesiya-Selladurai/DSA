@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0290-word-pattern/) | Easy |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0290-word-pattern/) | Easy |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
+| [0187-repeated-dna-sequences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -433,5 +436,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0187-repeated-dna-sequences/) | Medium |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0187-repeated-dna-sequences/) | Medium |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0187-repeated-dna-sequences/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
