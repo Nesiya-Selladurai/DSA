@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0290-word-pattern/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0290-word-pattern/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0796-rotate-string/) | Easy |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
