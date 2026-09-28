@@ -454,4 +454,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0187-repeated-dna-sequences/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
