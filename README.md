@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | Medium |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii/) | Hard |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | Medium |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii/) | Hard |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i/) | Medium |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii/) | Hard |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/3325-count-substrings-with-k-frequency-characters-i/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3364-minimum-positive-sum-subarray/) | Easy |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
