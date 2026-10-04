@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0567-permutation-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0796-rotate-string/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Dynamic Programming
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0213-house-robber-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0416-partition-equal-subset-sum/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0860-lemonade-change/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1903-largest-odd-number-in-string/) | Easy |
@@ -469,5 +473,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
