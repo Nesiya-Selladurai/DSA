@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
 | [0860-lemonade-change](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0213-house-robber-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0416-partition-equal-subset-sum/) | Medium |
+| [0646-maximum-length-of-pair-chain](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Matrix
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0561-array-partition/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1029-two-city-scheduling](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1029-two-city-scheduling/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -286,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0605-can-place-flowers/) | Easy |
+| [0646-maximum-length-of-pair-chain](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0860-lemonade-change/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
@@ -503,4 +507,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0561-array-partition/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 <!---LeetCode Topics End-->
