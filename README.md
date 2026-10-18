@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0560-subarray-sum-equals-k/) | Medium |
+| [0561-array-partition](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1029-two-city-scheduling](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1029-two-city-scheduling/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0605-can-place-flowers/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0860-lemonade-change/) | Easy |
@@ -496,4 +499,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1029-two-city-scheduling](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1029-two-city-scheduling/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
