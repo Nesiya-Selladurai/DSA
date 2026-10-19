@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1991-find-the-middle-index-in-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2090-k-radius-subarray-averages/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2134-minimum-swaps-to-group-all-1s-together-ii/) | Medium |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1901-find-a-peak-element-ii/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2831-find-the-longest-equal-subarray](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/2831-find-the-longest-equal-subarray/) | Medium |
 ## Prefix Sum
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
