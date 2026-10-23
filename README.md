@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0643-maximum-average-subarray-i/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0860-lemonade-change](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0240-search-a-2d-matrix-ii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0713-subarray-product-less-than-k/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0826-most-profit-assigning-work/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1208-get-equal-substrings-within-budget](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1208-get-equal-substrings-within-budget/) | Medium |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0234-palindrome-linked-list/) | Easy |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0567-permutation-in-string/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1768-merge-strings-alternately/) | Easy |
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1029-two-city-scheduling](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1029-two-city-scheduling/) | Medium |
@@ -306,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0605-can-place-flowers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0826-most-profit-assigning-work](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0860-lemonade-change](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
