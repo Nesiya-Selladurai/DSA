@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0605-can-place-flowers/) | Easy |
