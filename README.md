@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0646-maximum-length-of-pair-chain/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1029-two-city-scheduling](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1029-two-city-scheduling/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0826-most-profit-assigning-work](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0826-most-profit-assigning-work/) | Medium |
 | [0860-lemonade-change](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0881-boats-to-save-people/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1029-two-city-scheduling](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1029-two-city-scheduling/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0992-subarrays-with-k-different-integers/) | Hard |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
