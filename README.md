@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1539-kth-missing-positive-number/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1029-two-city-scheduling](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1029-two-city-scheduling/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-two-city-scheduling](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1029-two-city-scheduling/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1838-frequency-of-the-most-frequent-element/) | Medium |
