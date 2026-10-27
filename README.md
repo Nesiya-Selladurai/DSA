@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0054-spiral-matrix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0198-house-robber](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0213-house-robber-ii/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0416-partition-equal-subset-sum/) | Medium |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0055-jump-game/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
