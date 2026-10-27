@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0134-gas-station](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0134-gas-station/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0162-find-peak-element/) | Medium |
 | [0198-house-robber](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0198-house-robber/) | Medium |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0055-jump-game/) | Medium |
+| [0134-gas-station](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0455-assign-cookies/) | Easy |
