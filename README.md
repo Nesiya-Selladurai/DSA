@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Hard/0076-minimum-window-substring/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0187-repeated-dna-sequences](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0242-valid-anagram/) | Easy |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0013-roman-to-integer/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/0523-continuous-subarray-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Medium/1248-count-number-of-nice-subarrays/) | Medium |
 | [1323-maximum-69-number](https://github.com/Nesiya-Selladurai/DSA/tree/main/Java/Easy/1323-maximum-69-number/) | Easy |
